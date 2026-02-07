@@ -9,18 +9,15 @@ const noTexts = [
   "Pookie please",
   "Don't do this to me :(",
   "You're breaking my heart",
-  "I'm gonna cry...",
-  "Just say yes 😭"
+  "I'm gonna cry..."
 ];
 
 const catImages = [
-  "assets/img2.jpg",
-  "assets/img3.jpg",
-  "assets/img4.jpg",
-  "assets/img5.jpg",
-  "assets/img6.jpg",
-  "assets/img7.png"
-
+  "assets/img2.jpeg",
+  "assets/img3.jpeg",
+  "assets/img4.jpeg",
+  "assets/img5.jpeg",
+  "assets/img6.jpeg"
 ];
 
 let noClickCount = 0;
